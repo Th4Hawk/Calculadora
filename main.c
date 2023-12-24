@@ -41,7 +41,7 @@ int main()
             printf("Resultado da operação: %d\n", divisão(num1, num2));
             break;
         case 4:
-            printf("Resultado da operação: %d\n", divisão(num1, num2));
+            printf("Resultado da operação: %d\n", multiplicação(num1, num2));
             break;
         default:
             printf("Opção invalida\n");
